@@ -1,6 +1,8 @@
 import { StyleSheet } from 'react-native';
 
 export const GlobalStyles = StyleSheet.create({
+    
+  //generel baggrund for alle screens
   screenContainer: {
     flex: 1,
     backgroundColor: '#FFFFFF',
@@ -8,6 +10,7 @@ export const GlobalStyles = StyleSheet.create({
     paddingHorizontal: 16,
   },
 
+  //overskrift øverst på hver screen
   sectionTitle: {
     fontSize: 20,
     fontWeight: 'bold',
@@ -16,6 +19,7 @@ export const GlobalStyles = StyleSheet.create({
     letterSpacing: 1,
   },
 
+  //sort knap med hvid tekst, bruges på oversigt og i chat listen
   optionCard: {
     backgroundColor: '#000000',
     borderRadius: 4,
@@ -31,6 +35,7 @@ export const GlobalStyles = StyleSheet.create({
     letterSpacing: 0.5,
   },
 
+  //ramme omkring booking formularen
   formContainer: {
     backgroundColor: '#FFFFFF',
     borderWidth: 1,
@@ -59,12 +64,14 @@ export const GlobalStyles = StyleSheet.create({
     color: '#000000',
   },
 
+  //rækken med Fashion Advisor knapperne i formularen
   faOptionsRow: {
     flexDirection: 'row',
     flexWrap: 'wrap',
     gap: 8,
   },
 
+  //hvid række med sort kant til hver booking i listen
   bookingItem: {
     backgroundColor: '#FFFFFF',
     borderWidth: 1,
@@ -82,12 +89,15 @@ export const GlobalStyles = StyleSheet.create({
     flexShrink: 1,
     marginRight: 8,
   },
+
+  //grå tekst til kommentaren under dato og FA
   bookingItemComment: {
     fontSize: 13,
     color: '#555555',
     marginTop: 4,
   },
 
+  //primær knap (sort baggrund)
   primaryBtn: {
     backgroundColor: '#000000',
     borderRadius: 4,
@@ -103,6 +113,8 @@ export const GlobalStyles = StyleSheet.create({
     textAlign: 'center',
     letterSpacing: 0.5,
   },
+
+  //sekundær knap (hvid med sort kant) 
   secondaryBtn: {
     backgroundColor: '#FFFFFF',
     borderRadius: 4,
