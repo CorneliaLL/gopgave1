@@ -4,7 +4,7 @@
 En mobilapplikation bygget i React Native (Expo) til booking af tid hos en Fashion Advisor i en butik.
 
 ## Funktioner
-- Oversigt med information og genveje, hermed funktionel knap til bookning af tid 
+- Oversigt med information og genveje 
 - Book en tid hos en valgt Fashion Advisor
 - Se og annullér dine bookinger
 - Chat oversigt med Fashion Advisors
