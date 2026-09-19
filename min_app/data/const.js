@@ -1,0 +1,1 @@
+export const FASHION_ADVISORS = ["Maria Hansen", "Peter Holm", "Sofie Lund"];
