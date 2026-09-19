@@ -17,7 +17,7 @@ En mobilapplikation bygget i React Native (Expo) til booking af tid hos en Fashi
 5. Scan QR-koden med Expo Go-appen på din telefon
 
 ## Demovideo
-[Link til demovideo indsættes her]
+Link til Demovideo: `https://github.com/CorneliaLL/gopgave1/issues/1#issue-5513584432`
 
 ## Teknologier
 - React Native / Expo
