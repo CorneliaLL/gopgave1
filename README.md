@@ -1,7 +1,7 @@
 # gopgave1
 
 # BookingApp
-En mobilapplikation bygget i React Native (Expo) til booking af tid hos en Fashion Advisor i en butik.
+En mobilapplikation bygget i React Native (Expo) til booking af tid hos en Fashion Advisor i en tøjbutik.
 
 ## Funktioner
 - Oversigt med information og genveje 

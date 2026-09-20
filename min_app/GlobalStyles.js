@@ -71,6 +71,15 @@ export const GlobalStyles = StyleSheet.create({
     gap: 8,
   },
 
+  //ramme omkring chat listen så scroll bliver tydelig
+  chatListBox: {
+    flex: 1,
+    borderWidth: 1,
+    borderColor: '#000000',
+    borderRadius: 10,
+    padding: 8,
+  },
+
   //hvid række med sort kant til hver booking i listen
   bookingItem: {
     backgroundColor: '#FFFFFF',
