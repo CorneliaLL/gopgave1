@@ -9,7 +9,7 @@ import ChatScreen from './screens/ChatScreen';
 //opretter Tab Navigatoren, som er selve bunden af appen med de tre faner
 const Tab = createBottomTabNavigator();
 
-//al booking data ligger øverst i appen og sendes som props
+//alt booking data ligger øverst i appen og sendes som props
 export default function App() {
   const [bookinger, setBookinger] = useState([]);
 
